@@ -27,9 +27,8 @@ a product level relationships. But more to come there in future discussions.
 ## iOS
 
 ```text
-Following up on a separate thread for the codebases / technical guidance. Attached are the 
-SDK as it stands and the initial app we used the SDK with, BookAnywhere. We'll aim to have
-a knowledge transfer with the original maintainers later this or early next week.
+Attached are the SDK as it stands and the initial app we used the SDK with, 
+BookAnywhere. We'll aim to have a knowledge transfer with the original maintainers.
 
 There are two parallel tracks we'll be pursuing: updating our SDK to our latest internal 
 version v5 and building a mobile app that integrates WebView overlays with our latest SDK. 
