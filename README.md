@@ -2,6 +2,11 @@
 
 Handing off password protected assets to developers!
 
+## Useful links
+
+- [Figma Designs](https://www.figma.com/proto/f2SFQJARNccx5ifCxbL9Dv/Virtual-Card---App?page-id=0%3A1&node-id=11%3A620&viewport=501%2C48%2C0.25&scaling=scale-down&starting-point-node-id=11%3A620&show-proto-sidebar=1)
+- [Asana Backlog](https://app.asana.com/0/1201139956942935/board)
+
 ## Backend
 
 ```text
