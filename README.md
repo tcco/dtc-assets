@@ -52,4 +52,9 @@ BookAnywhere
 
 ## Android
 
-Todo
+```text
+Both the Android SDK and the BookAnywhere app are pretty easy to download and boot up.
+
+I had to ignore some folders like idea and gradle to reduce the size of the zips. Please
+let met know if things don't run out of the box like expected
+```
